@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Full-stack developer.
+
+Expertise covers the followings:
+✦ Frontend/Backend development
+✦ Software architecture
+✦ Database design
+✦ Linux administration
+
+Software Development skills:
+✦ Golang
+✦ React, Antd, Html, Css
+✦ MySQL, PostgreSQL, Elasticseach
+✦ Redis
+✦ gRPC, Gin, Colly(spider)
+✦ RestAPI, GraphQL
+✦ Kafka, RocketMQ
+✦ Git
+
+I was involved in a wide range of projects using different technology stacks. In most cases I was involved in the entire life cycle of each project starting with business requirements and ending with application design and implementation.
+I have strong analyti
