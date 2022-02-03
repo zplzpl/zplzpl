@@ -16,11 +16,3 @@ Here are some ideas to get you started:
 -->
 
 🔭 I'm Full-stack developer.
-
-Software Development skills:
-- Golang
-- React, Antd, Html, Css
-- MySQL, PostgreSQL, Elasticseach, Redis...
-- gRPC, Gin, Colly(spider)...
-- Kafka, RocketMQ
-- DDD
